@@ -1,0 +1,400 @@
+*{
+    box-sizing: border-box;
+    }
+
+@media screen and (max-width: 666px) {
+    
+    .navtab li a {
+     padding: 11px 13px;
+    }
+}
+
+@media screen and (max-width: 494px) {
+     
+    
+
+     .navtab li a {
+    padding: 11px 2px;
+    font-size: 12px;
+   }
+
+}
+
+@media screen and (max-width: 1197px) {
+     
+    
+
+    .col-md-3 {
+   margin : 6px 36px;
+   
+  }
+
+  .social-buttons{
+      margin-left: 240px;
+  }
+
+}
+
+@media screen and (max-width: 987px) {
+     
+    
+
+    .col-md-3 {
+   margin : 6px 68px;
+   
+  }
+
+}
+
+@media screen and (max-width: 424px) {
+     
+    
+
+    .row {
+   margin : 0px -90px;
+   
+  }
+}
+
+@media screen and (max-width: 976px) {
+     
+    
+
+    .social-buttons{
+        margin-left: 174px;
+    }
+
+}
+
+@media screen and (max-width: 762px) {
+     
+    
+
+    .social-buttons{
+        margin-left: 46px;
+    }
+
+}
+@media screen and (max-width: 467px) {
+     
+    
+
+    .social-buttons{
+        margin-left: 28px;
+    }
+
+}
+
+@media screen and (max-width: 449px) {
+     
+    
+
+    .social-buttons{
+        margin-left: 5px;
+    }
+
+}
+
+@media screen and (max-width: 409px) {
+     
+    
+
+    .social-buttons{
+        margin-left: -13px;
+    }
+
+}
+
+@media screen and (max-width: 342px) {
+     
+    
+
+    .social-buttons{
+        margin-left: 20px;
+    }
+
+}
+
+@media screen and (max-width: 440px) {
+     
+    
+
+    .social-buttons{
+        margin-left: 7px;
+    }
+
+}
+
+@media screen and (max-width: 409x) {
+     
+    
+
+    .social-buttons{
+        margin-left: -13px;
+    }
+
+}
+
+@media screen and (max-width: 437px) {
+     
+    
+
+    .social-buttons{
+        margin-left: -13px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 399px) {
+     
+    
+
+    .social-buttons{
+        margin-left: -23px;
+    }
+
+}
+
+@media screen and (max-width: 398px) {
+     
+    
+
+    .social-buttons{
+        margin-left: -24px;
+    }
+
+}
+
+@media screen and (max-width: 408px) {
+     
+    
+
+    .social-buttons{
+        margin-left: -22px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 394px) {
+     
+    
+
+    .social-buttons{
+        margin-left: -28px;
+    }
+
+}
+@media screen and (max-width: 395px) {
+     
+    
+
+    .social-buttons{
+        margin-left: -27px;
+    }
+
+}
+
+@media screen and (max-width: 387px) {
+     
+    
+
+    .social-buttons{
+        margin-left: -36px;
+    }
+
+}
+
+@media screen and (max-width: 386px) {
+     
+    
+
+    .social-buttons{
+        margin-left: -36px;
+    }
+
+}
+
+
+@media screen and (max-width: 396px) {
+     
+    
+
+    .social-buttons{
+        margin-left: -34px;
+    }
+
+}
+
+@media screen and (max-width: 397px) {
+     
+    
+
+    .social-buttons{
+        margin-left: -35px;
+    }
+
+}
+
+@media screen and (max-width: 385px) {
+     
+    
+
+    .social-buttons{
+       padding: 0px 68px;
+    }
+
+}
+
+@media screen and (max-width: 364px) {
+     
+    
+
+    .social-buttons{
+       padding: 0px 67px;
+    }
+
+}
+
+@media screen and (max-width: 360px) {
+     
+    
+
+    .social-buttons{
+       padding: 0px 64px;
+    }
+
+}
+
+@media screen and (max-width: 351px) {
+     
+    
+
+    .social-buttons{
+       padding: 0px 46px;
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+     
+    
+
+    .social-buttons{
+       padding: 0px 42px;
+    }
+
+}
+
+@media screen and (max-width: 1000px) {
+    .hero_heading h1{
+        font-size: 3rem;
+    }
+    
+}
+
+@media screen and (max-width: 420px) {
+    .hero_heading h1{
+        font-size: 2.4rem;
+    }
+    
+}
+
+@media screen and (max-width: 340px) {
+    .hero_heading h1{
+        font-size: 2rem;
+    }
+
+    .hero{
+        margin-bottom: -296px;
+    }
+    
+}
+
+@media screen and (max-width: 524px) {
+   .container-fluid{
+    padding-left: var(--bs-gutter-x,-0.25rem)
+   }
+    
+}
+
+@media screen and (max-width: 544px) {
+    .btn-lg{
+       display: none;
+       
+
+    }
+    
+     
+ }
+ 
+ @media screen and (min-width: 544px) {
+    .socialbtns{
+       display: none;
+       
+
+    }
+    
+     
+ }
+
+ 
+ 
+ @media screen and (max-width: 464px) {
+    .socialbtns, .socialbtns ul, .socialbtns li {
+        margin-left: 15px;
+    
+    }
+ }
+
+ @media screen and (max-width: 411px) {
+    .socialbtns, .socialbtns ul, .socialbtns li {
+        margin-left: 9px;
+    
+    }
+ }
+
+ 
+
+ @media screen and (max-width: 371px) {
+    .socialbtns, .socialbtns ul, .socialbtns li {
+        margin-left: 3px;
+    
+    }
+ }
+
+ @media screen and (max-width: 344px) {
+    .socialbtns, .socialbtns ul, .socialbtns li {
+        margin-left: -2px;
+    
+    }
+ }
+
+ @media screen and (max-width: 301px) {
+    .socialbtns, .socialbtns ul, .socialbtns li {
+        margin-left: -8px;
+    
+    }
+ }
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+

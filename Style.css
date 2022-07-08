@@ -1,0 +1,195 @@
+*{
+    box-sizing: border-box;
+    }
+
+.w-img{
+    width: 100vw;
+    height: 26vw;
+}
+
+.carousel-caption{
+    font-family: 'Stylish', sans-serif;
+}
+
+
+p{
+    color: #29786d;
+}
+
+
+.navtab{
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    margin-top: 35px;
+    height: 64px;
+    
+}
+
+.navtab ul{
+    
+        list-style-type: none;
+        
+        padding: 0;
+        
+
+    
+      
+}
+
+  
+.navtab li {
+    float: left;
+    
+
+}
+  
+.navtab li a {
+    display: block;
+    padding: 11px 35px;
+    box-sizing: border-box;
+    border: 3px solid black;
+    text-decoration: none;
+    color: white ;
+    background-color: #2f2f2f	;
+
+} 
+
+.navtab li a:hover {
+    color: black ;
+    background-color: white;
+}
+
+
+
+.btn:hover{
+    background-color: red;
+}
+
+.card:hover{
+    transform: scale(1.05);
+ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.social-buttons{
+    margin-top: 50px;
+    margin-left: 441px;
+    margin-bottom: 50px;
+}
+
+  
+  
+  .social-buttons a{
+    display: inline-flex;
+    text-decoration: none;
+    font-size: 18px;
+    width: 60px;
+    height: 60px;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 0 8px;
+  }
+  
+  .social-buttons a::before{
+    content: "";
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background: linear-gradient(45deg,#22a6b3,#30336b);
+    border-radius: 50%;
+    z-index: -1;
+    transition: 0.3s ease-in;
+  }
+  
+  .social-buttons a:hover::before{
+    transform: scale(0);
+  }
+  
+  .social-buttons a i{
+    transition: 0.3s ease-in;
+  }
+  
+  .social-buttons a:hover i{
+    background: linear-gradient(45deg,#22a6b3,#30336b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transform: scale(2.2);
+  }
+
+  .divider:after,
+  .divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+  }
+  
+.otaku{
+  color: purple;
+  font-family: 'Lobster', cursive;
+}
+
+body {
+ 
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.hero{
+ 
+  height: 400px;
+  margin-bottom: -245px;
+}
+
+.hero_heading h1{
+    
+    position: absolute;
+   left:0;
+    right:0;
+    margin:0px auto;
+    max-width: 600px;
+    color: purple;
+    font-family: 'Lobster', cursive;
+}
+
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+
+a, a:hover {
+  text-decoration: none;
+}
+
+.socialbtns, .socialbtns ul, .socialbtns li {
+  margin-left: 23px;
+  padding: 5px;
+  padding-left: 29px;
+
+}
+
+.socialbtns li {
+    list-style: none outside none;
+    display: inline-block;
+}
+
+.socialbtns .fa {
+  width: 58px;
+    height: 54px;
+  color: 	#FF0000;
+  background-color: #FFC0CB;
+  border: 3px solid #C71585;
+  padding-top: 15px;
+  border-radius: 22px;
+  -moz-border-radius: 22px;
+  -webkit-border-radius: 22px;
+  -o-border-radius: 22px;
+  padding-left: 16px;
+}
+
+.socialbtns .fa:hover {
+  color: #ffffff;
+  background-color: 	#4B0082;
+  border: 1px solid #000;
+}
+
